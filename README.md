@@ -1,3 +1,8 @@
+ 
+## Radio_Discord_Bot
+  
+Hi, I have recently create a new Discord Bot. With this bot you can listen the radio.
+
 <div align="center">
   <br />
   <p>
@@ -6,10 +11,6 @@
   <br />
  </div>
  
-## Radio_Discord_Bot
-  
-Hi, I have recently create a new Discord Bot. With this bot you can listen the radio.
-
 ## Installation
   
   - You must install npm (**Node.js 16.6.0 or newer is required.**)
